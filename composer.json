@@ -1,0 +1,5 @@
+{
+    "require": {
+        "overtrue/laravel-wechat": "~4.0"
+    }
+}
