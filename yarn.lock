@@ -1974,7 +1974,7 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-wepy-async-function@^1.4.4:
+wepy-async-function@^1.4.6:
   version "1.4.6"
   resolved "https://registry.yarnpkg.com/wepy-async-function/-/wepy-async-function-1.4.6.tgz#b650c3d46ddea54404ba1e005e0b949897c69804"
   dependencies:
